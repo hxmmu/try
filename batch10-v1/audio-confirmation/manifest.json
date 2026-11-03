@@ -1,0 +1,47 @@
+[
+  {
+    "file": "correct_effect.mp3",
+    "purpose": "缺少明确正确提示时可否补充此短音效",
+    "source_title": "我要上厕所_500_757",
+    "source_bank": "main",
+    "source_slot": 0,
+    "sha256": "723b90f7a0e4893ab6e562a53ee2f7582fa41b38a2af9c357259f4ec172a4e11",
+    "mpeg_sha256": "133504c417b6718d5f7b8277af2a982fdabe78dc082eb1c3ce698e90a57482f5"
+  },
+  {
+    "file": "habits_end_a.mp3",
+    "purpose": "我会刷牙、我喜欢洗澡：答对后的原包中性结束语",
+    "source_title": "我会刷牙_499_756",
+    "source_bank": "common0",
+    "source_slot": 0,
+    "sha256": "ddc5131f07d21224b0fdfd9dbd3560c16292fb76324c21cae1972a1b5b49bd60",
+    "mpeg_sha256": "bdae23f8133a218c5736b7a6eeb72faa2aac70312cf3e765ce4d9bf4dde51910"
+  },
+  {
+    "file": "habits_end_b.mp3",
+    "purpose": "我要上厕所、我会自己吃饭：同一句话的另一原始录音",
+    "source_title": "我要上厕所_500_757",
+    "source_bank": "common0",
+    "source_slot": 0,
+    "sha256": "8551ab1a52c4cde370fdd930b0d1167aa5a8e7e0a077762cb435ec18fc06b5fd",
+    "mpeg_sha256": "df9c8f2655c4df937bfab83a9973032a26c15868c2f521465537a965f55e9227"
+  },
+  {
+    "file": "encyclopedia_end.mp3",
+    "purpose": "百科两册：原包中性结束语",
+    "source_title": "赳赳启蒙认知大百科1_128_96",
+    "source_bank": "common0",
+    "source_slot": 3,
+    "sha256": "513f714f2e68ca547fcdc22e8f61c53200de4e861a89a162f18a11c68e4441e0",
+    "mpeg_sha256": "9dbb3dd4853a0f01781af7b6cb64cae5c035712755724e3d52c6b6fba5955a44"
+  },
+  {
+    "file": "answer_without_correct_cue.mp3",
+    "purpose": "示例：原完整回答，未另补正确提示",
+    "source_title": "我要上厕所_500_757",
+    "source_bank": "g1064",
+    "source_slot": 2,
+    "sha256": "e53fcb5efd323eaff622a2e7a7bd1e0578fe49a7c87f943fb019e2b8187e71d2",
+    "mpeg_sha256": "a6d8e65c58c3deaeee92bc4d391de9bb9d006a7481e8af7a471287ed6dd945c5"
+  }
+]
