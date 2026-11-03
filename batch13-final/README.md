@@ -4,10 +4,10 @@
 | --- | --- | --- |
 | 好臭好臭的不洗头魔王 | [下载完整 BNL](https://raw.githubusercontent.com/hxmmu/try/bnf-batch10-20261103/batch13-final/11_monster_3tries_v1.bnl) | 38,569,472 字节 |
 | 赳赳好习惯绘本·生活篇（合辑） | [下载完整 BNL](https://raw.githubusercontent.com/hxmmu/try/bnf-batch10-20261103/batch13-final/12_habits_3tries_v1.bnl) | 24,432,128 字节 |
-| 2023宝宝启蒙认知大百科 · 第1册 | [下载完整 BNL](https://media.githubusercontent.com/media/hxmmu/try/bnf-batch10-20261103/batch13-final/13_encyclopedia2023_1_3tries_v1.bnl) | 110,010,880 字节 |
+| 2023宝宝启蒙认知大百科 · 第1册 | [下载 ZIP，解压得到完整 BNL](https://raw.githubusercontent.com/hxmmu/try/bnf-batch10-20261103/batch13-final/13_encyclopedia2023_1_3tries_v1.zip) | 103,650,590 字节（ZIP） |
 | 2023宝宝启蒙认知大百科 · 第2册 | [下载完整 BNL](https://raw.githubusercontent.com/hxmmu/try/bnf-batch10-20261103/batch13-final/13_encyclopedia2023_2_3tries_v1.bnl) | 101,816,320 字节 |
 
-百科需要两册全部下载，将两份完整 BNL 一起放入点读笔 BOOK 文件夹。它们是独立分册，不是需要拼接的上传分卷。安全弹出后重新开机。同书旧版请先移到电脑备份，BOOK 中保留需要的新版本。不要只改原文件后缀。
+百科需要两册全部下载。第一册 ZIP 请在 Mac 双击解压，得到完整 BNL；第二册直接下载 BNL。将两份 BNL 一起放入点读笔 BOOK 文件夹。它们是独立分册，不是需要拼接的上传分卷。安全弹出后重新开机。同书旧版请先移到电脑备份，BOOK 中保留需要的新版本。不要只改原文件后缀。
 
 本批三套原包均逐份独立分析，保留普通点读、全部原题与可接受答案、原声音频。单目标问答采用三次机会；原找齐游戏保留计数、回复顺序和重复点击处理。只有一道原题的入口保留各页原题；多题入口每轮从自身题库选题。
 
@@ -24,4 +24,4 @@
 
 实机状态：用户已反馈其他书能正常使用；本次 2023 百科尚未收到实机结果。离线通过不代表实机通过，也不代表其他书全部游戏分支都已实机测试。
 
-原包、源码、详细分析和完整验证记录保留在云工作区，未公开上传。两册百科的原音频没有重压；第一册通过仓库的大文件存储提供完整 BNL 下载。
+原包、源码、详细分析和完整验证记录保留在云工作区，未公开上传。两册百科的原音频没有重压；第一册另提供普通 ZIP 下载，解压后的 BNL 与验证成品逐字节相同。
