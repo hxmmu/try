@@ -1,0 +1,36 @@
+{
+  "purpose": "audio_role_confirmation_only",
+  "bnl_included": false,
+  "files": [
+    {
+      "file": "A.mp3",
+      "bytes": 3072,
+      "sha256": "723b90f7a0e4893ab6e562a53ee2f7582fa41b38a2af9c357259f4ec172a4e11"
+    },
+    {
+      "file": "B.mp3",
+      "bytes": 7680,
+      "sha256": "4b57944ef112f40f42c52400cffb28bf898116d953b9b0b62711efce7d450305"
+    },
+    {
+      "file": "end_1_timeout.mp3",
+      "bytes": 115712,
+      "sha256": "3e864a63b2a138b567dce5a69a985b85b5356fa61e1702a502aa28657fa69469"
+    },
+    {
+      "file": "end_2_replay.mp3",
+      "bytes": 47616,
+      "sha256": "e781fc64625fbe5e2f4b63b31244cddfcb56b8f7446636a45585c1f5c4948b32"
+    },
+    {
+      "file": "prince_audio_check_v2.zip",
+      "bytes": 234882,
+      "sha256": "4874efc584771f57c8836ce0dd06400d1ed7fbbc0db04d325e87762c957d7145"
+    },
+    {
+      "file": "success_end.mp3",
+      "bytes": 59904,
+      "sha256": "98c8932c3b0a7515a13cf5750b38b6c42d31067431cca4fa7d2eea07c3013f48"
+    }
+  ]
+}
