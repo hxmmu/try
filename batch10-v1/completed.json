@@ -1,0 +1,47 @@
+[
+  {
+    "title": "宝宝巴士点读馆1_288_476",
+    "file": "babybus_library_1_v1.bnl",
+    "bytes": 46264832,
+    "sha256": "fadcf0476ff607341469af4feea3383458a2a6e6138b8ed95c65bf82b5e557af",
+    "ordinary_oids": 71,
+    "audio_count": 85,
+    "hardware_test": "not_run"
+  },
+  {
+    "title": "宝宝巴士点读馆2_288_477",
+    "file": "babybus_library_2_v1.bnl",
+    "bytes": 52808192,
+    "sha256": "0cd15090855afc3796c3dd5c7e606bf2ae250524e00711f023ecf54812dbfae5",
+    "ordinary_oids": 78,
+    "audio_count": 93,
+    "hardware_test": "not_run"
+  },
+  {
+    "title": "宝宝巴士点读馆3_288_478",
+    "file": "babybus_library_3_v1.bnl",
+    "bytes": 76683776,
+    "sha256": "3d9bb1ae9f8a32b17b36a72e9527a9a5ea536678fed290a1a38f977f18df1662",
+    "ordinary_oids": 76,
+    "audio_count": 92,
+    "hardware_test": "not_run"
+  },
+  {
+    "title": "宝宝巴士点读馆4_288_479",
+    "file": "babybus_library_4_v1.bnl",
+    "bytes": 63249920,
+    "sha256": "69dd6b5dd55e29f6ac3b850975b5747a4fe1914910cbd140aad39335de7725ed",
+    "ordinary_oids": 43,
+    "audio_count": 59,
+    "hardware_test": "not_run"
+  },
+  {
+    "title": "宝宝巴士点读馆5_288_557",
+    "file": "babybus_library_5_v1.bnl",
+    "bytes": 44339200,
+    "sha256": "f64eb383421636764a4f461161389e8f3c90cf763b45b865cb0984f98809ca01",
+    "ordinary_oids": 42,
+    "audio_count": 58,
+    "hardware_test": "not_run"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "scope": "uploaded native firmware offline execution; hardware playback and file I/O mocked",
+  "sha256": "69dd6b5dd55e29f6ac3b850975b5747a4fe1914910cbd140aad39335de7725ed",
+  "physical_oid_count": 43,
+  "ordinary_oids": 43,
+  "game_entries": 0,
+  "unsupported_source_records_preserved_as_raw": 0,
+  "original_mpeg_frames_unchanged": 59,
+  "native_audio_indexes_checked": 59,
+  "strict_mp3_decode_passed": 59,
+  "audio_confirmation": "no games; ordinary recordings copied from this exact source",
+  "hardware_test": "not_run"
+}
