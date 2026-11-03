@@ -1,0 +1,13 @@
+{
+  "files": 15,
+  "all_passed": true,
+  "physical_oids": 4716,
+  "ordinary_oids": 4254,
+  "game_entries": 106,
+  "original_mpeg_unchanged": 4743,
+  "total_audio_strict_decode": 4802,
+  "game_cases": 3312,
+  "questions": 267,
+  "accepted_oids": 470,
+  "hardware_test": "not_run"
+}
