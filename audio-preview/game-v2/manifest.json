@@ -1,0 +1,53 @@
+{
+  "kind": "offline game sequence previews, not hardware recordings",
+  "files": [
+    {
+      "file": "01_ant_correct.mp3",
+      "indices": [
+        266,
+        275,
+        334
+      ],
+      "sha256": "f53e14a253a58a854de044a4a0ba80ee795a7b5a27fd6a1e611fa8fde5173293",
+      "seconds": 29.736
+    },
+    {
+      "file": "02_mother_two_wrong_then_correct.mp3",
+      "indices": [
+        266,
+        271,
+        270,
+        1,
+        332
+      ],
+      "sha256": "23e92edb72ef557465a49633323cea3bb30b41286a4ae0bffec05a35368c457c",
+      "seconds": 26.28
+    },
+    {
+      "file": "03_mother_three_wrong_exit.mp3",
+      "indices": [
+        266,
+        271,
+        270,
+        1,
+        1,
+        15
+      ],
+      "sha256": "df100ef52de453e3d70b0fe47962ddb5010ff65f906dfa2336960d0e862768c6",
+      "seconds": 17.496
+    },
+    {
+      "file": "04_find_all_princes.mp3",
+      "indices": [
+        266,
+        265,
+        294,
+        295,
+        296,
+        331
+      ],
+      "sha256": "f2e8e12f10ebd49d7402abe78feef8f0128634884c6aca657bb7622f05af6dbc",
+      "seconds": 47.52
+    }
+  ]
+}
